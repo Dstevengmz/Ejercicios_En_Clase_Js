@@ -1,0 +1,25 @@
+body{
+    background: green;
+}
+.tabla{
+
+  margin: 15px;
+  padding: 15px;
+  border:  5px solid;
+}
+.columna{
+    border:  5px solid;
+}
+.fila{
+        border:  5px solid;
+
+}
+tr {
+  border: 5px solid;
+}
+.e{
+    border: 5px solid;
+}
+td{
+  border: 5px solid;
+}
