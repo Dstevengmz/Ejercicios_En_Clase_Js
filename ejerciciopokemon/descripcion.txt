@@ -1,0 +1,6 @@
+consumir la api de pokemon_go
+tarjeta , una tabla
+nombre,
+imagen,
+puntaje,
+poder

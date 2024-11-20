@@ -3,7 +3,6 @@ function api2() {
     const comentario=document.querySelector("#comentario")
     fetch("https://jsonplaceholder.typicode.com/posts/1/comments").then(respuesta => respuesta.json())
         .then(datos => {
-
             console.log(datos)
             datos.forEach(element => {
                 let item = document.createElement('li');
