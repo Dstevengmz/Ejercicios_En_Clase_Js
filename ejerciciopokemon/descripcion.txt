@@ -4,3 +4,5 @@ nombre,
 imagen,
 puntaje,
 poder
+
+investigar como se realiza un proyecto en react comandos que se usa react js.
